@@ -1,0 +1,30 @@
+header h1{
+    text-align: center;
+    font-size: 90px;
+    color: rgb(156, 231, 231);
+    
+    padding: 30px;
+    border: 0ch;
+}
+
+nav{
+    background-color: rgb(22, 34, 33);
+    overflow: hidden;
+}
+
+nav a{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding: 50px;
+    background-color: rgb(22, 34, 33);
+}
+* {
+    box-sizing: border-box;
+    background-color: rgb(219, 58, 219);;
+}
+h2{
+    padding: 0px;
+    color: black;
+}
